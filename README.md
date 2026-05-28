@@ -124,6 +124,7 @@ research-figure-composer-skill/
 ├── README.md
 ├── LICENSE
 ├── NOTICE.md
+├── CHANGELOG.md
 ├── RELEASE_CHECKLIST.md
 └── skills/
     └── research-figure-composer/

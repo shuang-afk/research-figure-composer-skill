@@ -24,7 +24,7 @@ python ".\skills\research-figure-composer\scripts\validate_svg.py" ".\skills\res
 
 ```powershell
 git status
-git add README.md LICENSE NOTICE.md RELEASE_CHECKLIST.md .gitignore skills
+git add README.md LICENSE NOTICE.md CHANGELOG.md RELEASE_CHECKLIST.md .gitignore skills
 git commit -m "Publish research figure composer skill"
 git branch -M main
 git remote add origin https://github.com/shuang-afk/research-figure-composer-skill.git
