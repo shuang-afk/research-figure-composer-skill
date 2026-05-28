@@ -1,0 +1,6 @@
+interface:
+  display_name: "Research Figure Composer"
+  short_description: "Create editable SVG research figures"
+  default_prompt: "Use $research-figure-composer to show figure-type examples first, ask one intake question, then create an editable SVG research figure."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="434" viewBox="0 0 880 434">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="28" y="34" text-anchor="start" font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="18" font-weight="700" fill="#202124">数据图色系对比</text>
+<text x="28" y="56" text-anchor="start" font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="12" font-weight="400" fill="#5f6368">同一组折线数据，仅替换色系</text>
+<rect x="28" y="62" width="260" height="158" rx="0" fill="#ffffff" stroke="#d6d9dd" stroke-width="1"/>
+<text x="41" y="84" text-anchor="start" font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="13" font-weight="700" fill="#202124">nmi-pastel</text>
+<text x="41" y="102" text-anchor="start" font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="10" font-weight="400" fill="#5f6368">NMI低饱和</text>
+<line x1="64" y1="188" x2="250" y2="188" stroke="#202124" stroke-width="1" stroke-linecap="round"/>
+<line x1="64" y1="104" x2="64" y2="188" stroke="#202124" stroke-width="1" stroke-linecap="round"/>
+<polyline points="76,156 124,144 172,132 220,120" fill="none" stroke="#484878" stroke-width="2"/>
+<circle cx="76" cy="156" r="3.2" fill="#484878" stroke="white" stroke-width="0.6"/>
+<circle cx="124" cy="144" r="3.2" fill="#484878" stroke="white" stroke-width="0.6"/>
+<circle cx="172" cy="132" r="3.2" fill="#484878" stroke="white" stroke-width="0.6"/>
+<circle cx="220" cy="120" r="3.2" fill="#484878" stroke="white" stroke-width="0.6"/>
+<polyline points="76,156 124,134 172,117 220,100" fill="none" stroke="#7884B4" stroke-width="2"/>
+<circle cx="76" cy="156" r="3.2" fill="#7884B4" stroke="white" stroke-width="0.6"/>
+<circle cx="124" cy="134" r="3.2" fill="#7884B4" stroke="white" stroke-width="0.6"/>
+<circle cx="172" cy="117" r="3.2" fill="#7884B4" stroke="white" stroke-width="0.6"/>
+<circle cx="220" cy="100" r="3.2" fill="#7884B4" stroke="white" stroke-width="0.6"/>
+<polyline points="76,156 124,148 172,138 220,124" fill="none" stroke="#B4C0E4" stroke-width="2"/>
+<circle cx="76" cy="156" r="3.2" fill="#B4C0E4" stroke="white" stroke-width="0.6"/>
+<circle cx="124" cy="148" r="3.2" fill="#B4C0E4" stroke="white" stroke-width="0.6"/>
+<circle cx="172" cy="138" r="3.2" fill="#B4C0E4" stroke="white" stroke-width="0.6"/>
+<circle cx="220" cy="124" r="3.2" fill="#B4C0E4" stroke="white" stroke-width="0.6"/>
+<rect x="204" y="80" width="10" height="10" rx="2" fill="#484878" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="218" y="80" width="10" height="10" rx="2" fill="#7884B4" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="232" y="80" width="10" height="10" rx="2" fill="#B4C0E4" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="246" y="80" width="10" height="10" rx="2" fill="#E4CCD8" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="310" y="62" width="260" height="158" rx="0" fill="#ffffff" stroke="#d6d9dd" stroke-width="1"/>
+<text x="323" y="84" text-anchor="start" font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="13" font-weight="700" fill="#202124">semantic</text>
+<text x="323" y="102" text-anchor="start" font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="10" font-weight="400" fill="#5f6368">语义对比</text>
+<line x1="346" y1="188" x2="532" y2="188" stroke="#202124" stroke-width="1" stroke-linecap="round"/>
+<line x1="346" y1="104" x2="346" y2="188" stroke="#202124" stroke-width="1" stroke-linecap="round"/>
+<polyline points="358,156 406,144 454,132 502,120" fill="none" stroke="#0F4D92" stroke-width="2"/>
+<circle cx="358" cy="156" r="3.2" fill="#0F4D92" stroke="white" stroke-width="0.6"/>
+<circle cx="406" cy="144" r="3.2" fill="#0F4D92" stroke="white" stroke-width="0.6"/>
+<circle cx="454" cy="132" r="3.2" fill="#0F4D92" stroke="white" stroke-width="0.6"/>
+<circle cx="502" cy="120" r="3.2" fill="#0F4D92" stroke="white" stroke-width="0.6"/>
+<polyline points="358,156 406,134 454,117 502,100" fill="none" stroke="#8BCF8B" stroke-width="2"/>
+<circle cx="358" cy="156" r="3.2" fill="#8BCF8B" stroke="white" stroke-width="0.6"/>
+<circle cx="406" cy="134" r="3.2" fill="#8BCF8B" stroke="white" stroke-width="0.6"/>
+<circle cx="454" cy="117" r="3.2" fill="#8BCF8B" stroke="white" stroke-width="0.6"/>
+<circle cx="502" cy="100" r="3.2" fill="#8BCF8B" stroke="white" stroke-width="0.6"/>
+<polyline points="358,156 406,148 454,138 502,124" fill="none" stroke="#B64342" stroke-width="2"/>
+<circle cx="358" cy="156" r="3.2" fill="#B64342" stroke="white" stroke-width="0.6"/>
+<circle cx="406" cy="148" r="3.2" fill="#B64342" stroke="white" stroke-width="0.6"/>
+<circle cx="454" cy="138" r="3.2" fill="#B64342" stroke="white" stroke-width="0.6"/>
+<circle cx="502" cy="124" r="3.2" fill="#B64342" stroke="white" stroke-width="0.6"/>
+<rect x="486" y="80" width="10" height="10" rx="2" fill="#0F4D92" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="500" y="80" width="10" height="10" rx="2" fill="#8BCF8B" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="514" y="80" width="10" height="10" rx="2" fill="#B64342" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="528" y="80" width="10" height="10" rx="2" fill="#42949E" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="592" y="62" width="260" height="158" rx="0" fill="#ffffff" stroke="#d6d9dd" stroke-width="1"/>
+<text x="605" y="84" text-anchor="start" font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="13" font-weight="700" fill="#202124">material</text>
+<text x="605" y="102" text-anchor="start" font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="10" font-weight="400" fill="#5f6368">材料机制</text>
+<line x1="628" y1="188" x2="814" y2="188" stroke="#202124" stroke-width="1" stroke-linecap="round"/>
+<line x1="628" y1="104" x2="628" y2="188" stroke="#202124" stroke-width="1" stroke-linecap="round"/>
+<polyline points="640,156 688,144 736,132 784,120" fill="none" stroke="#33B5A5" stroke-width="2"/>
+<circle cx="640" cy="156" r="3.2" fill="#33B5A5" stroke="white" stroke-width="0.6"/>
+<circle cx="688" cy="144" r="3.2" fill="#33B5A5" stroke="white" stroke-width="0.6"/>
+<circle cx="736" cy="132" r="3.2" fill="#33B5A5" stroke="white" stroke-width="0.6"/>
+<circle cx="784" cy="120" r="3.2" fill="#33B5A5" stroke="white" stroke-width="0.6"/>
+<polyline points="640,156 688,134 736,117 784,100" fill="none" stroke="#77D7D1" stroke-width="2"/>
+<circle cx="640" cy="156" r="3.2" fill="#77D7D1" stroke="white" stroke-width="0.6"/>
+<circle cx="688" cy="134" r="3.2" fill="#77D7D1" stroke="white" stroke-width="0.6"/>
+<circle cx="736" cy="117" r="3.2" fill="#77D7D1" stroke="white" stroke-width="0.6"/>
+<circle cx="784" cy="100" r="3.2" fill="#77D7D1" stroke="white" stroke-width="0.6"/>
+<polyline points="640,156 688,148 736,138 784,124" fill="none" stroke="#7C6CCF" stroke-width="2"/>
+<circle cx="640" cy="156" r="3.2" fill="#7C6CCF" stroke="white" stroke-width="0.6"/>
+<circle cx="688" cy="148" r="3.2" fill="#7C6CCF" stroke="white" stroke-width="0.6"/>
+<circle cx="736" cy="138" r="3.2" fill="#7C6CCF" stroke="white" stroke-width="0.6"/>
+<circle cx="784" cy="124" r="3.2" fill="#7C6CCF" stroke="white" stroke-width="0.6"/>
+<rect x="768" y="80" width="10" height="10" rx="2" fill="#33B5A5" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="782" y="80" width="10" height="10" rx="2" fill="#77D7D1" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="796" y="80" width="10" height="10" rx="2" fill="#7C6CCF" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="810" y="80" width="10" height="10" rx="2" fill="#B9A7E8" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="28" y="242" width="260" height="158" rx="0" fill="#ffffff" stroke="#d6d9dd" stroke-width="1"/>
+<text x="41" y="264" text-anchor="start" font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="13" font-weight="700" fill="#202124">clinical</text>
+<text x="41" y="282" text-anchor="start" font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="10" font-weight="400" fill="#5f6368">临床随访</text>
+<line x1="64" y1="368" x2="250" y2="368" stroke="#202124" stroke-width="1" stroke-linecap="round"/>
+<line x1="64" y1="284" x2="64" y2="368" stroke="#202124" stroke-width="1" stroke-linecap="round"/>
+<polyline points="76,336 124,324 172,312 220,300" fill="none" stroke="#272727" stroke-width="2"/>
+<circle cx="76" cy="336" r="3.2" fill="#272727" stroke="white" stroke-width="0.6"/>
+<circle cx="124" cy="324" r="3.2" fill="#272727" stroke="white" stroke-width="0.6"/>
+<circle cx="172" cy="312" r="3.2" fill="#272727" stroke="white" stroke-width="0.6"/>
+<circle cx="220" cy="300" r="3.2" fill="#272727" stroke="white" stroke-width="0.6"/>
+<polyline points="76,336 124,314 172,297 220,280" fill="none" stroke="#E28E2C" stroke-width="2"/>
+<circle cx="76" cy="336" r="3.2" fill="#E28E2C" stroke="white" stroke-width="0.6"/>
+<circle cx="124" cy="314" r="3.2" fill="#E28E2C" stroke="white" stroke-width="0.6"/>
+<circle cx="172" cy="297" r="3.2" fill="#E28E2C" stroke="white" stroke-width="0.6"/>
+<circle cx="220" cy="280" r="3.2" fill="#E28E2C" stroke="white" stroke-width="0.6"/>
+<polyline points="76,336 124,328 172,318 220,304" fill="none" stroke="#D24B40" stroke-width="2"/>
+<circle cx="76" cy="336" r="3.2" fill="#D24B40" stroke="white" stroke-width="0.6"/>
+<circle cx="124" cy="328" r="3.2" fill="#D24B40" stroke="white" stroke-width="0.6"/>
+<circle cx="172" cy="318" r="3.2" fill="#D24B40" stroke="white" stroke-width="0.6"/>
+<circle cx="220" cy="304" r="3.2" fill="#D24B40" stroke="white" stroke-width="0.6"/>
+<rect x="204" y="260" width="10" height="10" rx="2" fill="#272727" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="218" y="260" width="10" height="10" rx="2" fill="#E28E2C" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="232" y="260" width="10" height="10" rx="2" fill="#D24B40" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="246" y="260" width="10" height="10" rx="2" fill="#5B8FD6" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="310" y="242" width="260" height="158" rx="0" fill="#ffffff" stroke="#d6d9dd" stroke-width="1"/>
+<text x="323" y="264" text-anchor="start" font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="13" font-weight="700" fill="#202124">genomics</text>
+<text x="323" y="282" text-anchor="start" font-family="Arial, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="10" font-weight="400" fill="#5f6368">组学系统</text>
+<line x1="346" y1="368" x2="532" y2="368" stroke="#202124" stroke-width="1" stroke-linecap="round"/>
+<line x1="346" y1="284" x2="346" y2="368" stroke="#202124" stroke-width="1" stroke-linecap="round"/>
+<polyline points="358,336 406,324 454,312 502,300" fill="none" stroke="#4D4D4D" stroke-width="2"/>
+<circle cx="358" cy="336" r="3.2" fill="#4D4D4D" stroke="white" stroke-width="0.6"/>
+<circle cx="406" cy="324" r="3.2" fill="#4D4D4D" stroke="white" stroke-width="0.6"/>
+<circle cx="454" cy="312" r="3.2" fill="#4D4D4D" stroke="white" stroke-width="0.6"/>
+<circle cx="502" cy="300" r="3.2" fill="#4D4D4D" stroke="white" stroke-width="0.6"/>
+<polyline points="358,336 406,314 454,297 502,280" fill="none" stroke="#8F8F8F" stroke-width="2"/>
+<circle cx="358" cy="336" r="3.2" fill="#8F8F8F" stroke="white" stroke-width="0.6"/>
+<circle cx="406" cy="314" r="3.2" fill="#8F8F8F" stroke="white" stroke-width="0.6"/>
+<circle cx="454" cy="297" r="3.2" fill="#8F8F8F" stroke="white" stroke-width="0.6"/>
+<circle cx="502" cy="280" r="3.2" fill="#8F8F8F" stroke="white" stroke-width="0.6"/>
+<polyline points="358,336 406,328 454,318 502,304" fill="none" stroke="#D9544D" stroke-width="2"/>
+<circle cx="358" cy="336" r="3.2" fill="#D9544D" stroke="white" stroke-width="0.6"/>
+<circle cx="406" cy="328" r="3.2" fill="#D9544D" stroke="white" stroke-width="0.6"/>
+<circle cx="454" cy="318" r="3.2" fill="#D9544D" stroke="white" stroke-width="0.6"/>
+<circle cx="502" cy="304" r="3.2" fill="#D9544D" stroke="white" stroke-width="0.6"/>
+<rect x="486" y="260" width="10" height="10" rx="2" fill="#4D4D4D" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="500" y="260" width="10" height="10" rx="2" fill="#8F8F8F" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="514" y="260" width="10" height="10" rx="2" fill="#D9544D" stroke="#ffffff" stroke-width="0.5"/>
+<rect x="528" y="260" width="10" height="10" rx="2" fill="#5B7FCA" stroke="#ffffff" stroke-width="0.5"/>
+</svg>
